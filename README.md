@@ -1,7 +1,7 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of PSK and QPSK.
 # Tools required
-Google Colab
+Google Colab.
 # Program
 ```
 PSK
@@ -155,5 +155,3 @@ QPSK
 
 Thus the Output waveforms for both the PSK and QPSK Acquired.
 
-
-# Hardware experiment output waveform.
