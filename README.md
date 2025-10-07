@@ -62,7 +62,7 @@ plt.tight_layout()
 plt.show()
 ```
 
-#QPSK 
+QPSK 
 
 ```
 import numpy as np
