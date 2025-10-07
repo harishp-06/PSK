@@ -138,17 +138,11 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
-```
 
 <img width="1190" height="790" alt="download (1) dc exp 4" src="https://github.com/user-attachments/assets/dbb27727-bbe4-4632-83b7-7d5e841b7e1d" />
 
+# Results
+
 <img width="989" height="590" alt="download (1) qpsk" src="https://github.com/user-attachments/assets/9651f16a-302a-45fd-88bc-d77fb5cdfa7c" />
 
-
-
-```
-# Results
-```
-Thus the Output waveforms acquired.
-```
 # Hardware experiment output waveform.
